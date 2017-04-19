@@ -1,0 +1,7 @@
+XTBlankPageUtils.xcodeproj/xcuserdata/
+XTBlankPageUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTBlankPageUtils.xcodeproj/project.xcworkspace/xcuserdata/
